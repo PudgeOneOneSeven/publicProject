@@ -1,0 +1,13 @@
+
+*{margin: 0;
+  border: 0;}
+.pattern{
+     transform-style:preserve-3d;
+     perspective: 1000px;}
+.conteiner-zemlya{box-sizing: border-box; 
+    border: 6px dotted #e6ff05; 
+    height: 500px; width: 500px;
+    transform: rotateX(70deg);
+    transform-origin: bottom;
+  margin-left: 400px;}
+
